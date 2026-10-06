@@ -1,4 +1,4 @@
-# Óscar Corredor
+# Oscar Corredor
 
 ### Software Development Student
 
