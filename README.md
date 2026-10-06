@@ -1,27 +1,27 @@
-# Oscar Corredor
+# Óscar Corredor
 
-### Software Development Student | Python | Java | Web Development
+### Software Development Student
 
-Soy estudiante de desarrollo de software con interés en la programación, la resolución de problemas y la creación de aplicaciones prácticas.
+Estudiante de desarrollo de software enfocado en construir soluciones prácticas y fortalecer mis habilidades en programación.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Python, Java, HTML y CSS**, trabajando en proyectos orientados a la lógica de programación, desarrollo de aplicaciones y fundamentos de ingeniería de software.
+Actualmente estoy desarrollando proyectos académicos y personales utilizando diferentes tecnologías, con especial interés en la programación, la resolución de problemas y el desarrollo de software.
 
 ---
 
 ## Sobre mí
 
-* Estudiante de desarrollo de software en **Campuslands**.
-* Formación en programación, lógica computacional y desarrollo de aplicaciones.
-* Actualmente trabajando con **Python y Java**.
-* Con conocimientos en **HTML y CSS** para desarrollo web.
-* Interesado en continuar desarrollándome en el área de **software y tecnología**.
-* En constante aprendizaje mediante proyectos prácticos y resolución de problemas.
+- Estudiante de desarrollo de software en **Campuslands**.
+- Formación en programación y fundamentos de ingeniería de software.
+- Actualmente desarrollando proyectos con **Python y Java**.
+- Con conocimientos en **HTML y CSS** para desarrollo web.
+- Interesado en seguir creciendo profesionalmente en el área de desarrollo de software.
+- Enfocado en aprender mediante proyectos y práctica constante.
 
 ---
 
 ## Tecnologías
 
-### Lenguajes
+### Lenguajes y desarrollo
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css" />
@@ -35,31 +35,61 @@ Actualmente estoy fortaleciendo mis conocimientos en **Python, Java, HTML y CSS*
 
 ---
 
-## Proyectos
+## Proyectos destacados
 
-Actualmente estoy desarrollando proyectos académicos y personales enfocados en fortalecer mis habilidades de programación y desarrollo de software.
+### Sistema de control de ventas
 
-Algunos de los proyectos en los que he trabajado incluyen:
+Aplicación desarrollada en **Python** para gestionar las operaciones básicas de una tienda y practicar conceptos de programación y lógica.
 
-* Aplicaciones de gestión y control desarrolladas en **Python**.
-* Proyectos de programación orientada a objetos utilizando **Java**.
-* Desarrollo de páginas web utilizando **HTML y CSS**.
-* Proyectos enfocados en lógica de programación y resolución de problemas.
-* Implementación de metodologías y conceptos de desarrollo de software.
+**Tecnologías:** Python
 
-Puedes encontrar mis proyectos y trabajos en los repositorios de este perfil.
+> Repositorio próximamente.
 
 ---
 
-## Actualmente aprendiendo
+### Portafolio personal
 
-* Programación orientada a objetos
-* Java
-* Python
-* Desarrollo web
-* Git y GitHub
-* Estructuras de datos y lógica de programación
-* Fundamentos de ingeniería de software
+Sitio web desarrollado para presentar mi perfil, habilidades, proyectos y objetivos profesionales.
+
+**Tecnologías:** HTML, CSS
+
+> Repositorio próximamente.
+
+---
+
+### Proyectos en Java
+
+Actualmente desarrollando proyectos académicos en **Java**, aplicando conceptos de programación orientada a objetos, estructuras de datos y resolución de problemas.
+
+**Tecnologías:** Java
+
+> Repositorio próximamente.
+
+---
+
+## Actualmente trabajando en
+
+- Desarrollo de aplicaciones con **Java**.
+- Programación orientada a objetos.
+- Desarrollo web con **HTML y CSS**.
+- Fortalecimiento de conocimientos en **Python**.
+- Uso de **Git y GitHub** para control y gestión de proyectos.
+- Aplicación de buenas prácticas de programación.
+
+---
+
+## Formación
+
+**Campuslands**  
+Programa de formación en desarrollo de software.
+
+Actualmente fortaleciendo conocimientos en programación, desarrollo web, bases de datos, metodologías de desarrollo y herramientas utilizadas en la industria.
+
+---
+
+## Objetivo profesional
+
+Desarrollarme como profesional en el área de software, adquirir experiencia en proyectos reales y continuar construyendo soluciones que me permitan aplicar y ampliar mis conocimientos.
 
 ---
 
@@ -76,9 +106,3 @@ Puedes encontrar mis proyectos y trabajos en los repositorios de este perfil.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-## Objetivo
-
-Continuar desarrollando mis habilidades como programador, adquirir experiencia profesional y participar en proyectos donde pueda aplicar y ampliar mis conocimientos en desarrollo de software.
